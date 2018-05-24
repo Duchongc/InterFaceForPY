@@ -1,0 +1,4 @@
+[2018-05-24 11:19:45,468] - logger.py] - INFO: ------test------
+[2018-05-24 11:19:45,470] - logger.py] - INFO: 测试url:http://www.baidu.com
+[2018-05-24 11:19:45,513] - logger.py] - INFO: attach file E:\toors\InterfaceForPython\InterFaceForPY\InterfaceForPython\report\2018_05_24_11_19_45result.html
+[2018-05-24 11:19:45,650] - logger.py] - INFO: 发送邮件"测试报告"成功! 收件人：1978529954@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
